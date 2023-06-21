@@ -1,0 +1,52 @@
+[
+	{
+	    "id": 16507965,
+			"nome": "Empreendedorismo",
+	    "capa": "https://demo.discent.com.br/dirVirtualLMS/arquivos/arquivosPorRange/		0000000482/imagem/50f6679cbca83c2ee4cce06d375026c3.jpg",
+	    "dataMatricula": "2021-07-29",
+	    "terminoContrato": "2023-06-18",
+	    "progresso": 1,
+	    "statusAcademico": "Expirado",
+	    "statusFinanceiro": "Quitado"
+	},
+	{
+	    "id": 16507966,
+			"nome": "Direitos Humanos, Ética e cidadania",
+	    "capa": "https://demo.discent.com.br/dirVirtualLMS/arquivos/arquivosPorRange/0000821613/imagem/e7fcd01880fda645ce3ced1329586104.png",
+	    "dataMatricula": "2022-06-29",
+	    "terminoContrato": "2023-09-10",
+	    "progresso": 35,
+	    "statusAcademico": "Matriculado",
+	    "statusFinanceiro": "Em dia"
+	},
+	{
+	    "id": 16507967,
+			"nome": "Técnico em Informática",
+	    "capa": "https://demo.discent.com.br/dirVirtualLMS/arquivos/arquivosPorRange/0000821616/imagem/8cb5fce802195023aa28781ecd8a6083.jpg",
+	    "dataMatricula": "2022-08-25",
+	    "terminoContrato": "2023-05-10",
+	    "progresso": 68,
+	    "statusAcademico": "Matriculado",
+	    "statusFinanceiro": "Em atraso"
+	},
+	{
+	    "id": 16507968,
+			"nome": "Educação de Jovens e Adultos",
+	    "capa": "https://demo.discent.com.br/dirVirtualLMS/arquivos/arquivosPorRange/0000821604/imagem/e00c04ed1d992bd82242f04a3dbae147.jpg",
+	    "dataMatricula": "2021-08-28",
+	    "terminoContrato": "2023-08-10",
+	    "progresso": 15,
+	    "statusAcademico": "Cancelado",
+	    "statusFinanceiro": "Em atraso"
+	},
+	{
+	    "id": 16507969,
+			"nome": "Lingua Inglesa",
+	    "capa": "https://demo.discent.com.br/dirVirtualLMS/arquivos/arquivosPorRange/0000821622/imagem/382703579ee7de086ff8f8be63eea64c.jpg",
+	    "dataMatricula": "2022-09-25",
+	    "terminoContrato": "2023-08-10",
+	    "progresso": 100,
+	    "statusAcademico": "Concluido",
+	    "statusFinanceiro": "Em dia"
+	}
+]
